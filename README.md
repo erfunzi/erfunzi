@@ -18,3 +18,10 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg">  
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfunzi/erfunzi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfunzi/erfunzi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erfunzi/erfunzi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
