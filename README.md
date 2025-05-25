@@ -17,3 +17,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">  
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg">  
 </p>
+
+![erfun](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erfunzi&theme=radical)
+![erfun](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erfunzi&theme=radical)
+![erfun](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erfunzi&theme=radical)
