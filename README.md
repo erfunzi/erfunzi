@@ -44,12 +44,6 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" width="120" />
 </p>
 
-### Others
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" width="135" />
-</p>
-
 ---
 
 ## 🚀 Pinned Projects
