@@ -1,22 +1,64 @@
 # Hi there, I'm Erfan 👋
 
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" alt="FastAPI">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" alt="Django">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" alt="Neovim">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" alt="PyTorch">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" alt="TensorFlow">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VSCode">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask">
-</p>
+---
+
+## 👨‍💻 About Me
+Hi! I'm **Erfan**, a passionate software developer focusing on Python and modern web frameworks like **Django**, **FastAPI**, and **Flask**.  
+I enjoy building scalable APIs, Telegram bots, and end-to-end solutions.  
+I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
+
+---
+
+## 🔭 Skills & Tools
+
+| Skill | Badge |
+|-------|-------|
+| **Python** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="40"> |
+| **FastAPI** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" width="40"> |
+| **Django** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="40"> |
+| **Flask** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" width="40"> |
+| **HTML** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" width="40"> |
+| **CSS** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" width="40"> |
+| **MySQL** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" width="40"> |
+| **PostgreSQL** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="40"> |
+| **PyTorch** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" width="40"> |
+| **TensorFlow** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" width="40"> |
+| **Telegram Bot** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="40"> |
+| **Git/GitHub** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" width="40"> |
+| **VSCode** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" width="40"> |
+| **Neovim** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" width="40"> |
+| **Twitter** | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" width="40"> |
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ Instagram Post Downloader Telegram Bot
+- **Description:** Modular Telegram bot for downloading Instagram posts; supports multiple images and group sending.  
+- **Tech/Tools:** Python, Telegram Bot API, Asyncio
+
+### 2️⃣ Pulse Shop API
+- **Description:** Full-featured e-commerce API with Django REST Framework: products, orders, access levels.  
+- **Tech/Tools:** Django, DRF, PostgreSQL, Celery  
+
+### 3️⃣ CRM + Ticketing System
+- **Description:** Added a ticketing module to existing CRM; automated notifications included.  
+- **Tech/Tools:** Django, DRF, Celery, SMS API  
+
+### 4️⃣ File Manager for Django
+- **Description:** Multi-file upload, metadata display (date, title, status), delete functionality.  
+- **Tech/Tools:** Django, JavaScript, HTML/CSS  
+
+### 5️⃣ 2D Game (Brick Breaker)
+- **Description:** Unity game with Paddle, Ball, and Bricks.  
+- **Tech/Tools:** Unity, C#
+
+### 6️⃣ Machine Learning Experiments
+- **Description:** Prototypes and tests with PyTorch & TensorFlow.  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/erfunzi">
@@ -32,50 +74,12 @@
 
 ---
 
-## 👨‍💻 About Me
-Hi! I'm **Erfan**, a passionate software developer focusing on Python and modern web frameworks like **Django**, **FastAPI** and **Flask**.  
-I enjoy building scalable APIs, Telegram bots, and end-to-end solutions.  
-I’m also curious about machine learning with **PyTorch** and **TensorFlow**.
-
----
-
-## 🔭 Skills
-- **Languages:** Python, HTML, CSS, SQL  
-- **Frameworks:** Django, FastAPI, Flask  
-- **Databases:** PostgreSQL, MySQL  
-- **Machine Learning:** PyTorch, TensorFlow  
-- **Tools & Editors:** Git/GitHub, Neovim, VSCode  
-- **Other:** Telegram bot development, RESTful API design, Docker basics, automated testing  
-
----
-
-## 🚀 Featured Projects
-- **Instagram Post Downloader Telegram Bot** – Modular bot, supports multiple images and group sending.  
-- **Pulse Shop API** – Django REST Framework; products, orders, file manager, and access levels.  
-- **CRM + Ticketing System** – Added a ticketing app to an existing CRM built with DRF.  
-- **File Manager for Django** – Multiple file upload, metadata display (date, title, status), and delete functionality.  
-- **2D Game (Brick Breaker)** – Unity project with Paddle, Ball, and Bricks.  
-- **Machine Learning Experiments** – Prototypes with PyTorch/TensorFlow.  
-- **Celery Automation** – Scheduled tasks such as nightly poll status updates.  
-
-> You can add direct links to each project above; I can format them with nice badges/cards if you send me the URLs.
-
----
-
-## 🛠️ What I Care About
-- Clean and well-documented APIs (OpenAPI/Swagger)  
-- Modular architecture for bots and services  
-- Virtual environments, linting and automated tests  
-- Integrations with email/SMS/Bank gateways  
-
----
-
-## 📫 How to Reach Me
+## 📫 Contact Me
 - **Email:** mr.biaresh@gmail.com  
-- **GitHub:** [github.com/erfunzi](https://github.com/erfunzi)  
-- **YouTube:** Arsavaw (send me the link if you want it included)  
-- **Telegram:** (send me your @username if you want it included)  
+- **GitHub:** [erfunzi](https://github.com/erfunzi)  
+- **YouTube:** Arsavaw  
+- **Telegram:** (send your @username if you want it included)
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and connect.* ✨
+*Thanks for visiting my profile!* ✨
