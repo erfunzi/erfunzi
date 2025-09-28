@@ -56,31 +56,32 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ### 1️⃣ Instagram Post Downloader Telegram Bot
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Instagram Bot"/>
 </p>
 - Modular bot for downloading Instagram posts; supports multiple images and group sending.
 
 ### 2️⃣ Dollar Pulse Telegram Bot
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" />
+  <a href="https://t.me/Dollar_pulse">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Dollar Pulse Bot"/>
+  </a>
 </p>
-- Telegram bot that sends real-time USD price updates to [Dollar Pulse Channel](https://t.me/Dollar_pulse) using Python and Telebot API.
+- Telegram bot that sends real-time USD price updates to the [Dollar Pulse Channel](https://t.me/Dollar_pulse) using Python and Telebot API.
 
 ### 3️⃣ CRM (Goharancrm.ir)
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" />
+  <a href="https://goharancrm.ir">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="120" alt="CRM"/>
+  </a>
 </p>
-- CRM with ticketing and automated notifications.[Visit Website](https://goharancrm.ir)
+- CRM with ticketing and automated notifications.  
+- [Visit Website](https://goharancrm.ir)
 
 ### 4️⃣ Gold Management System
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" />
+  <a href="https://app.jourabian.com">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" alt="Gold System"/>
+  </a>
 </p>
 - Web system for gold management and pricing.  
 - [Visit Website](https://app.jourabian.com)
