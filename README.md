@@ -71,7 +71,7 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 ### 3️⃣ CRM (Goharancrm.ir)
 <p align="center">
   <a href="https://goharancrm.ir">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="120" alt="CRM"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="CRM"/>
   </a>
 </p>
 - CRM with ticketing and automated notifications.  
