@@ -1,11 +1,17 @@
 # Hi there, I'm Erfan 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="150" alt="coding-gif"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 Hi! I'm **Erfan**, a passionate software developer focusing on Python and modern web frameworks like **Django**, **FastAPI**, and **Flask**.  
 I enjoy building scalable APIs, Telegram bots, and end-to-end solutions.  
-I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
+I’m also exploring machine learning with **PyTorch** and **TensorFlow**.  
+
+> “Code is like humor. When you have to explain it, it’s bad.”
 
 ---
 
@@ -46,22 +52,29 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Pinned Projects
 
 ### 1️⃣ Instagram Post Downloader Telegram Bot
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" />
 </p>
 - Modular bot for downloading Instagram posts; supports multiple images and group sending.
 
+### 2️⃣ Pulse Shop API
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="120" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" />
+</p>
+- Full-featured e-commerce API: products, orders, access levels.
+
 ### 3️⃣ CRM (Goharancrm.ir)
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="120" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" />
 </p>
--  CRM 
+- CRM with ticketing and automated notifications.
 
 ---
 
@@ -81,9 +94,17 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 ---
 
 ## 📫 Contact Me
-- **Email:** [conect me](erfzia83@gmail.com) 
-- **GitHub:** [erfunzi](https://github.com/erfunzi)  
-- **Telegram:** [Erfun_zi](https://t.me/erfun_zi)  
+<p align="center">
+  <a href="mailto:erfzia83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-erfzia83@gmail.com-D14836?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/erfunzi">
+    <img src="https://img.shields.io/badge/GitHub-erfunzi-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://t.me/erfun_zi">
+    <img src="https://img.shields.io/badge/Telegram-Erfun_zi-2CA5E0?style=flat-square&logo=telegram" />
+  </a>
+</p>
 
 ---
 
