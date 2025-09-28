@@ -17,56 +17,72 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ## 🔭 Skills & Tools
 
+### Programming Skills
 <p align="center">
-  <!-- Programming -->
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" width="120" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="150" />
+</p>
 
-  <!-- Web & Frameworks -->
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" width="140" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="140" />
+### Web & Frameworks
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="150" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" width="120" />
+</p>
 
-  <!-- Machine Learning -->
+### Machine Learning
+<p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" width="140" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" width="150" />
+</p>
 
-  <!-- Tools -->
+### Tools & Editors
+<p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" width="120" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" width="160" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" width="120" />
+</p>
 
-  <!-- Others -->
+### Others
+<p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="150" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" width="135" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Pinned Projects
 
+### 1️⃣ Instagram Post Downloader Telegram Bot
 <p align="center">
-  <!-- Instagram Bot -->
-  <a href="#" title="Instagram Post Downloader">
-    <img src="https://user-images.githubusercontent.com/erfunzi/instagram-bot.png" width="180" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Instagram Bot"/>
+</p>
+- Modular bot for downloading Instagram posts; supports multiple images and group sending.
 
-  <!-- Dollar Pulse -->
-  <a href="https://t.me/Dollar_pulse" title="Dollar Pulse Telegram Bot">
-    <img src="https://user-images.githubusercontent.com/erfunzi/dollar-pulse.png" width="180" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-
-  <!-- CRM -->
-  <a href="https://goharancrm.ir" title="CRM">
-    <img src="https://user-images.githubusercontent.com/erfunzi/crm.png" width="180" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-
-  <!-- Gold Management -->
-  <a href="https://app.jourabian.com" title="Gold Management System">
-    <img src="https://user-images.githubusercontent.com/erfunzi/gold-system.png" width="180" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+### 2️⃣ Dollar Pulse Telegram Bot
+<p align="center">
+  <a href="https://t.me/Dollar_pulse">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Dollar Pulse Bot"/>
   </a>
 </p>
+- Telegram bot that sends real-time USD price updates to the Channel using Python and Telebot API.
+
+### 3️⃣ CRM (Goharancrm.ir)
+<p align="center">
+  <a href="https://goharancrm.ir">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="120" alt="CRM"/>
+  </a>
+</p>
+- CRM with ticketing and automated notifications.  
+
+### 4️⃣ Gold Management System
+<p align="center">
+  <a href="https://app.jourabian.com">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" alt="Gold System"/>
+  </a>
+</p>
+- Web system for gold management and pricing.  
 
 ---
 
