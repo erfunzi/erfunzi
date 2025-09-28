@@ -13,11 +13,11 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ### Programming Languages
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="200" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" width="60" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" width="60" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" width="60" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="60" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="150" />
 </p>
 
 ### Web & Frameworks
