@@ -76,13 +76,13 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 </p>
 - CRM with ticketing and automated notifications.  
 
-### 4️⃣ Gold Management System
+### 4️⃣ Gold Marketing System
 <p align="center">
   <a href="https://app.jourabian.com">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" alt="Gold System"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="Gold System"/>
   </a>
 </p>
-- Web system for gold management and pricing.  
+- Web system for gold management and Marketing.  
 
 ---
 
