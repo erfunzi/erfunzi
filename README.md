@@ -48,15 +48,7 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ## 🚀 Pinned Projects
 
-### 1️⃣ Instagram Post Downloader Telegram Bot
-<p align="center">
-  <a href="https://t.me/InstagramPulse_bot">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Instagram Bot"/>
-  </a>
-</p>
-- Modular bot for downloading Instagram posts; supports multiple images and group sending.
-
-### 2️⃣ Dollar Pulse Telegram Bot
+### 1️⃣ Dollar Pulse Telegram Bot
 <p align="center">
   <a href="https://t.me/Dollar_pulse">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Dollar Pulse Bot"/>
@@ -64,7 +56,7 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 </p>
 - Telegram bot that sends real-time USD price updates to the Channel using Python and Telebot API.
 
-### 3️⃣ CRM (Goharancrm.ir)
+### 2️⃣ CRM (Goharancrm.ir)
 <p align="center">
   <a href="https://goharancrm.ir">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="CRM"/>
@@ -72,13 +64,21 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 </p>
 - CRM with ticketing and automated notifications.  
 
-### 4️⃣ Gold Marketing System
+### 3️⃣ Gold Marketing System
 <p align="center">
   <a href="https://app.jourabian.com">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="Gold System"/>
   </a>
 </p>
 - Web system for gold management and Marketing.  
+
+### 4️⃣ Instagram Post Downloader Telegram Bot
+<p align="center">
+  <a href="https://t.me/InstagramPulse_bot">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Instagram Bot"/>
+  </a>
+</p>
+- Modular bot for downloading Instagram posts; supports multiple images and group sending.
 
 ---
 
