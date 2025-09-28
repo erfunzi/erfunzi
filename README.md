@@ -65,7 +65,6 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/API/api2.svg" width="120" />
 </p>
 - Telegram bot that sends real-time USD price updates to [Dollar Pulse Channel](https://t.me/Dollar_pulse) using Python and Telebot API.
 
@@ -75,15 +74,13 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" />
 </p>
-- CRM with ticketing and automated notifications.  
-- [Visit Website](https://goharancrm.ir)
+- CRM with ticketing and automated notifications.[Visit Website](https://goharancrm.ir)
 
 ### 4️⃣ Gold Management System
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="120" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="120" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/API/api2.svg" width="120" />
 </p>
 - Web system for gold management and pricing.  
 - [Visit Website](https://app.jourabian.com)
