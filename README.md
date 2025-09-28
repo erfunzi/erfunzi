@@ -50,7 +50,9 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ### 1️⃣ Instagram Post Downloader Telegram Bot
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Instagram Bot"/>
+  <a href="https://t.me/InstagramPulse_bot">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Instagram Bot"/>
+  </a>
 </p>
 - Modular bot for downloading Instagram posts; supports multiple images and group sending.
 
