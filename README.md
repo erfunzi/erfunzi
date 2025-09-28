@@ -13,8 +13,8 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ### Programming Skills
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="120" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" width="120" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="150" />
 </p>
 
@@ -33,15 +33,15 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ### Tools & Editors
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" width="120" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" width="160" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" width="120" />
 </p>
 
 ### Others
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" width="130" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" width="135" />
 </p>
 
 ---
@@ -50,42 +50,30 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ### 1️⃣ Instagram Post Downloader Telegram Bot
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="40" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="40" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="150" />
 </p>
 - Modular bot for downloading Instagram posts; supports multiple images and group sending.
 
-### 2️⃣ Pulse Shop API
+### 3️⃣ CRM (Goharancrm.ir)
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="40" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="40" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" width="150" />
 </p>
-- Full-featured e-commerce API: products, orders, access levels.
+-  CRM 
 
-### 3️⃣ CRM + Ticketing System
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="40" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" width="40" />
-</p>
-- Added a ticketing module to an existing CRM; automated notifications included.
-
-### 4️⃣ File Manager for Django
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" width="40" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" width="40" />
-</p>
-- Multi-file upload, metadata display, and delete functionality.
 
 ### 5️⃣ 2D Game (Brick Breaker)
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" width="40" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" width="150" />
 </p>
 - Unity game with Paddle, Ball, and Bricks.
 
 ### 6️⃣ Machine Learning Experiments
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" width="40" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" width="40" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" width="150" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" width="150" />
 </p>
 - Prototypes and tests with PyTorch & TensorFlow.
 
@@ -107,10 +95,10 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 ---
 
 ## 📫 Contact Me
-- **Email:** erfzia83@gmail.com  
+- **Email:** [conect me](erfzia83@gmail.com) 
 - **GitHub:** [erfunzi](https://github.com/erfunzi)  
 - **YouTube:** Arsavaw  
-- **Telegram:** (send your @username if you want it included)
+- **Telegram:** [Erfun_zi](https://t.me/erfun_zi)  
 
 ---
 
