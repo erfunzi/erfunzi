@@ -63,20 +63,6 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 </p>
 -  CRM 
 
-
-### 5️⃣ 2D Game (Brick Breaker)
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" width="150" />
-</p>
-- Unity game with Paddle, Ball, and Bricks.
-
-### 6️⃣ Machine Learning Experiments
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" width="150" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg" width="150" />
-</p>
-- Prototypes and tests with PyTorch & TensorFlow.
-
 ---
 
 ## 📊 GitHub Stats
@@ -97,7 +83,6 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 ## 📫 Contact Me
 - **Email:** [conect me](erfzia83@gmail.com) 
 - **GitHub:** [erfunzi](https://github.com/erfunzi)  
-- **YouTube:** Arsavaw  
 - **Telegram:** [Erfun_zi](https://t.me/erfun_zi)  
 
 ---
