@@ -48,37 +48,64 @@ I’m also exploring machine learning with **PyTorch** and **TensorFlow**.
 
 ## 🚀 Pinned Projects
 
-### 1️⃣ Dollar Pulse Telegram Bot
+### 1️⃣ Loki DNS
 <p align="center">
-  <a href="https://t.me/Dollar_pulse">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Dollar Pulse Bot"/>
+  <a href="https://lokidns.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="Loki DNS"/>
   </a>
 </p>
-- Telegram bot that sends real-time USD price updates to the Channel using Python and Telebot API.
+- Gaming DNS platform for lower ping, stable connections, and instant plan delivery.
 
-### 2️⃣ CRM (Goharancrm.ir)
+### 2️⃣ Loki Payment
+<p align="center">
+  <a href="https://lokipayment.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="Loki Payment"/>
+  </a>
+</p>
+- Digital products storefront with wallet and multi-method checkout.
+
+### 3️⃣ CRM (Goharancrm.ir)
 <p align="center">
   <a href="https://goharancrm.ir">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="CRM"/>
   </a>
 </p>
-- CRM with ticketing and automated notifications.  
+- CRM with ticketing and automated notifications.
 
-### 3️⃣ Gold Marketing System
+### 4️⃣ Gold Marketing System
 <p align="center">
   <a href="https://app.jourabian.com">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="Gold System"/>
   </a>
 </p>
-- Web system for gold management and Marketing.  
+- Web system for gold management and Marketing.
 
-### 4️⃣ Instagram Post Downloader Telegram Bot
+### 5️⃣ Developer Card (Programmer Day Gift)
 <p align="center">
-  <a href="https://t.me/InstagramPulse_bot">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" width="120" alt="Instagram Bot"/>
+  <a href="https://github.com/erfunzi/programmer-day-gifft">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="120" alt="Developer Card"/>
+  </a>
+  <a href="https://developer.lyroo.space">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="Developer Card Live"/>
   </a>
 </p>
-- Modular bot for downloading Instagram posts; supports multiple images and group sending.
+- Personal developer card studio with GitHub OAuth, themes, activity reports, and shareable profiles.
+
+### 6️⃣ Afkhami Gold
+<p align="center">
+  <a href="https://afkhamigold.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="Afkhami Gold"/>
+  </a>
+</p>
+- Gold shop website for melted gold and coins (Afkhami Gold).
+
+### 7️⃣ Lyroo
+<p align="center">
+  <a href="https://lyroo.space">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="120" alt="Lyroo"/>
+  </a>
+</p>
+- Synced music room for listening together in real time.
 
 ---
 
